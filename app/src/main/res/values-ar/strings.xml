@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="enter_your_monthly_income">ادخل الدخل الشهري</string>
+    <string name="budget">الموازنه الشهريه</string>
+    <string name="invasment">الاستثمار</string>
+    <string name="personal">شخصي</string>
+    <string name="income">"الدخل : "</string>
+    <string name="commit">الالتزام</string>
+</resources>

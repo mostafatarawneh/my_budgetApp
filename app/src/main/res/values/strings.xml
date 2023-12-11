@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Best Budget</string>
+    <string name="enter_your_monthly_income">Enter Your Monthly income</string>
+    <string name="budget">Budget</string>
+    <string name="commit">Commit</string>
+    <string name="invasment">Invasment</string>
+    <string name="personal">Personal</string>
+    <string name="income">Income :</string>
+    <string name="calc">Calculation</string>
+</resources>
